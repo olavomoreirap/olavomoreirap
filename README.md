@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d2bc8ea0-302d-435d-8670-60fe5ed2cd47.svg)](https://wakatime.com/@d2bc8ea0-302d-435d-8670-60fe5ed2cd47)
 <table>
   <tr>
     <td style="width: 50%;">
