@@ -40,9 +40,4 @@ Java Backend Developer focused on maintaining and evolving systems with Java and
 - Delivery flow across implementation, testing, review, and deploy.
 - Java and Spring studies published on my site: [olavomoreira.dev](https://olavomoreira.dev/).
 
-<details>
-  <summary><strong>Stats</strong></summary>
-  <br />
-  <img src="https://leetcard.jacoblin.cool/olavomoreira?theme=nord&font=JetBrains%20Mono" height="163" alt="LeetCode stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=olavomoreirap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="163" alt="GitHub stats" />
-</details>
+
