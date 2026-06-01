@@ -27,7 +27,7 @@ Java Backend Developer focused on maintaining and evolving systems with Java and
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,aws,react,ts" alt="Core stack icons" />
 </p>
 
-- **Backend:** Java 8 and 17, Spring Boot, Spring Security, Spring Batch, WebFlux, REST APIs, and external service integrations.
+- **Backend:** Java 8 and 17+, Spring Boot, Spring Security, Spring Batch, WebFlux, REST APIs, and external service integrations.
 - **Data:** PostgreSQL, MySQL, MongoDB, Cassandra, complex joins, subqueries, and relational modeling.
 - **Quality:** JUnit, Mockito, RestAssured, automated tests, troubleshooting, technical documentation, and code review.
 - **Engineering:** Docker, Git, CI/CD, AWS, Railway, SOLID, Clean Code, Design Patterns, DDD, and Hexagonal Architecture.
