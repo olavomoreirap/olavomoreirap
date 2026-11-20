@@ -1,43 +1,63 @@
-[![wakatime](https://wakatime.com/badge/user/d2bc8ea0-302d-435d-8670-60fe5ed2cd47.svg)](https://wakatime.com/@d2bc8ea0-302d-435d-8670-60fe5ed2cd47)
-
 <div align="center">
-  <img src="./profile-banner.jpg" alt="Fantasy landscape artwork" width="100%" />
+  <img src="./assets/banner.svg" alt="Olavo Moreira — full stack developer, Java & Spring Boot" width="100%" />
 </div>
 
-<h1 align="center">Olavo Moreira</h1>
+<br />
+
+<div align="center">
+  <img src="./assets/terminal.svg" alt="Terminal at ~/olavo. whoami: Olavo Moreira, Full Stack Developer, Java & Spring Boot, developer @ Petize. cat stack.txt: Java, Spring Boot, PostgreSQL, Docker, AWS, React/TS. ls projects/: compras-publicas, clube-do-bolinha." width="560" />
+</div>
 
 <p align="center">
-  <strong>Java Backend Developer</strong><br />
-  Building reliable APIs, integrations, and maintainable systems with Spring Boot.
+  <a href="https://olavomoreira.dev/">olavomoreira.dev</a> ·
+  <a href="https://olavomoreira.dev/blog">blog</a> ·
+  <a href="https://www.linkedin.com/in/olavospmoreira/">linkedin</a>
 </p>
 
-<p align="center">
-  <a href="https://olavomoreira.dev/">Website</a>
-  |
-  <a href="https://www.linkedin.com/in/olavospmoreira/">LinkedIn</a>
-</p>
+### `> about`
 
-## About me
+Full Stack Developer at Petize, building and maintaining Java & Spring Boot systems for finance, vacation-rental management and e-signature. REST APIs, external integrations, relational data and automated tests, with React and TypeScript when the product needs it.
 
-Java Backend Developer focused on maintaining and evolving systems with Java and Spring Boot. I work on REST APIs, external integrations, relational data modeling, and automated tests, with hands-on experience in troubleshooting, technical documentation, code review, and deploy routines. I also contribute to end-to-end deliveries with React and TypeScript when the product needs frontend support.
+### `> stack`
 
-## Current stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img src="./assets/stack-light.svg" alt="Java, Spring Boot, PostgreSQL, Docker, AWS, React, TypeScript" width="728" />
+</picture>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,aws,react,ts" alt="Core stack icons" />
-</p>
+<sub>also: Spring Security · Spring Batch · WebFlux · MySQL · MongoDB · JUnit · Mockito · CI/CD · Railway</sub>
 
-- **Backend:** Java 8 and 17+, Spring Boot, Spring Security, Spring Batch, WebFlux, REST APIs, and external service integrations.
-- **Data:** PostgreSQL, MySQL, MongoDB, Cassandra, complex joins, subqueries, and relational modeling.
-- **Quality:** JUnit, Mockito, RestAssured, automated tests, troubleshooting, technical documentation, and code review.
-- **Engineering:** Docker, Git, CI/CD, AWS, Railway, SOLID, Clean Code, Design Patterns, DDD, and Hexagonal Architecture.
-- **Frontend support:** React and TypeScript for end-to-end feature delivery when needed.
+### `> projects`
 
-## What I keep sharpening
+**[Plataforma de Compras Públicas](https://olavomoreira.dev/projects/001-compras-publicas/plataforma-compras-publicas)** · [live ↗](https://stag-front-stag.up.railway.app/)<br />
+Modular SaaS for the public sector: price quotes, contract search, inventory, expiry alerts, WhatsApp notifications and auto-generated documents.<br />
+`saas` `procurement` `contracts` `inventory` `whatsapp`
 
-- Backend design with readable, maintainable architectures.
-- API contracts, security, and integration reliability.
-- Delivery flow across implementation, testing, review, and deploy.
-- Java and Spring studies published on my site: [olavomoreira.dev](https://olavomoreira.dev/).
+**[Clube do Bolinha](https://olavomoreira.dev/projects/002-bolinha-club/clube-do-bolinha)** · [live ↗](https://bolinha-club.squareweb.app/sorteios)<br />
+SaaS for League of Legends players: live games, match-history sync and team draws (ARAM, Arena, Valorant customs) with KDA and a Discord ranking.<br />
+`saas` `league-of-legends` `valorant` `discord`
 
+### `> writing`
 
+Java studies for beginners, in Portuguese, at [olavomoreira.dev/blog](https://olavomoreira.dev/blog).
+
+<!-- BLOG-POST-LIST:START -->
+- [Trabalhando com Exceptions - Java](https://olavomoreira.dev/blog/005-trabalhando-com-exceptions)
+- [Trabalhando com Strings - Java](https://olavomoreira.dev/blog/004-trabalhando-com-strings)
+- [Trabalhando com Objetos - Java](https://olavomoreira.dev/blog/002-trabalhando-com-objetos)
+<!-- BLOG-POST-LIST:END -->
+
+### `> activity`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olavomoreirap/olavomoreirap/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olavomoreirap/olavomoreirap/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/olavomoreirap/olavomoreirap/output/snake-light.svg" alt="Contribution graph with a snake eating the contributions" width="100%" />
+</picture>
+
+[![wakatime](https://wakatime.com/badge/user/d2bc8ea0-302d-435d-8670-60fe5ed2cd47.svg)](https://wakatime.com/@d2bc8ea0-302d-435d-8670-60fe5ed2cd47)
+
+### `> contact`
+
+Questions about a study, found a mistake, or want to talk Java? [LinkedIn](https://www.linkedin.com/in/olavospmoreira/) · [olavomoreira.dev](https://olavomoreira.dev/#contato)
